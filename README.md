@@ -86,6 +86,12 @@ This project leverages an ESP32 microcontroller to remotely wake or shut down a 
 - Connect the ESP32 to power and your Wi-Fi network.
 - Interact with the bot using Telegram commands to wake or shut down your PC.
 
+
+### 4. **LED Behaviour*
+Poll Telegram - 2 Blinks 
+No new message - LED ON
+ERROR connecting - 5 Blinks 
+
 ---
 
 ## **Commands**
